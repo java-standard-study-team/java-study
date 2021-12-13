@@ -32,7 +32,7 @@ public class AccountingApp {
         System.out.println("Dividend 1 : " + dividend1);
         System.out.println("Dividend 2 : " + dividend2);
         System.out.println("Dividend 3 : " + dividend3);
-        System.out.println("di");
+        System.out.println("di1");
     }
  
 }
