@@ -5,7 +5,7 @@
 ### 래퍼클래스란?
 
 > primitive type (기본 자료형)을 object로 사용할 수 있게 해주는 클래스
-
+ 
 ### 래퍼클래스 종류
 
 | Primitive(UnBoxing) | Wrapper Class(Boxing) |
