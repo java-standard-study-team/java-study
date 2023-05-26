@@ -79,6 +79,7 @@ Set<String> hashSet=new HashSet<>();
 * set의 특징을 그대로 갖고 있지만, 이진 탐색 트리(BinarySearchTree) 구조로 이루어져 있다.
 * 데이터가 많아질수록 데이터 추가/삭제에 시간이 더 걸림
 * 내부적으로 정렬하여 저장한다.
+
 ![image](https://github.com/java-standard-study-team/java-study/assets/73535356/9c422498-4b44-4c3b-ae87-02177acec74a)
 
 > 레드-블랙 트리(Red-Black Tree) <br>
