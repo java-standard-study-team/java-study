@@ -1,5 +1,5 @@
 # 8. 쓰레드의 실행제어
-
+도와주세요
 ##### sleep(long millis) - 일정시간 동안 쓰레드를 멈추게 한다
 ```java
 public class SleepExample {
