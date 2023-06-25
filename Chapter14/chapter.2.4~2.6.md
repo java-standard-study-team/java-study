@@ -83,10 +83,6 @@ System.out.println("Max: " + statistics.getMax());
 ``` 
 -> mapToInt(Integer::intValue)를 통해 numbers의 요소를 IntStream으로 변환 -> summaryStatistics()를 호출하여 통계를 계산
 
-##### 리듀싱 (Reducing)
-
-리듀싱은 스트림의 요소들을 결합하여 단일 결과를 도출하는 연산입니다. reduce() 메서드를 사용하여 리듀싱을 수행할 수 있습니다.
-
 ```java
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
 Optional<Integer> sum = numbers.stream()
